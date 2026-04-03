@@ -81,8 +81,8 @@ const headNodes = [
   { tag: 'meta', attrs: { charset: 'UTF-8' } },
   { tag: 'link', attrs: { rel: 'icon', type: 'image/svg+xml', href: '' } },
   { tag: 'meta', attrs: { name: 'viewport', content: 'initial-scale=1, width=device-width' } },
-  { tag: 'link', attrs: { rel: 'modulepreload', href: './chunks/vendor-modules.kyFu_h-i.js', crossorigin: '' } },
-  { tag: 'link', attrs: { rel: 'stylesheet', href: './assets/ByI3Zp2C.css', crossorigin: '' } },
+  { tag: 'link', attrs: { rel: 'modulepreload', href: './chunks/vendor-modules.C8IY2TC0.js', crossorigin: '' } },
+  { tag: 'link', attrs: { rel: 'stylesheet', href: './assets/RU0jSpFB.css', crossorigin: '' } },
 ];
 for (const nodeDef of headNodes) {
   const node = document.createElement(nodeDef.tag);
@@ -102,7 +102,7 @@ document.head.appendChild(analyticsConfig);
 const entryScript = document.createElement('script');
 entryScript.type = 'module';
 entryScript.setAttribute('crossorigin', '');
-entryScript.src = './Mo_X8VyV.js';
+entryScript.src = './D5Mvt8wS.js';
 document.body.appendChild(entryScript);
       ]]></script>
     </body>
